@@ -1,7 +1,7 @@
 # apiLacrei
  
 ## Sobre o projeto
-Criar uma API para o projeto social da Lacrei para a comunidade LGBTQIAPN+ no padrão Rest API.
+Criar uma API para o projeto social da Lacrei para a comunidade LGBTQIAPN+, no padrão Rest API.
 Na API é necessário cadastrar profissionais da saúde com o campo Nome e cadastrar consultas para os pacientes que tenha data e um profissional viunculado.
 
 ## Funcionalidade
